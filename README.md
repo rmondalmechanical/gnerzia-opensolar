@@ -1,0 +1,2 @@
+# gnerzia-opensolar
+its software
